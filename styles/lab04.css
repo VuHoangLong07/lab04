@@ -77,11 +77,9 @@ ol ul {
 }
 
 
-aside:hover {
-    display: none;
-}
 
-nav a:hover {
+
+ol li:hover {
     background-color: lightblue;
     border-color: darkblue;
 }
